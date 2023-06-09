@@ -5,7 +5,9 @@
       <map>
         <entry key="..\:/Users/Genie/AndroidStudioProjects/HanyangTodo/app/src/main/res/layout/activity_calendar.xml" value="0.1875" />
         <entry key="..\:/Users/Genie/AndroidStudioProjects/HanyangTodo/app/src/main/res/layout/activity_login.xml" value="0.1875" />
-        <entry key="..\:/Users/Genie/AndroidStudioProjects/HanyangTodo/app/src/main/res/layout/activity_main.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/Genie/AndroidStudioProjects/HanyangTodo/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Genie/AndroidStudioProjects/HanyangTodo/app/src/main/res/layout/setting_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/Users/Genie/AndroidStudioProjects/HanyangTodo/app/src/main/res/menu/calendar_menu.xml" value="0.36614583333333334" />
       </map>
     </option>
   </component>
